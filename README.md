@@ -27,7 +27,7 @@ Example CSV log file: [Logfile](https://github.com/Jacman777/Python-for-FANUC_Ro
 After attaching USB stick to Arudino blue USER LED will turn on when drive will be mounted. 
 To close logging file and unmount USB memory press USER button. Blue led should turn off. 
 
-<img src="https://github.com/Jacman777/Python-for-FANUC_Robots/blob/847db46e85504123dddb27eb47fb6700d25d6ece/Images/Arduino.png" width=80% height=80%>
+<img src="https://github.com/Jacman777/Python-for-FANUC_Robots/blob/847db46e85504123dddb27eb47fb6700d25d6ece/Images/Arduino.png" width=60% height=60%>
 
 # Useful links
 - [Introduction of Python for FANUC Robots](https://www.fanuc.co.jp/ja/product/new_product/2025/202501_r50ia.html)
