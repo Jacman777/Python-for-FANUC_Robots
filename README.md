@@ -23,7 +23,7 @@ RS-485 terminal output (optional):
 
 Example CSV log file: [Logfile](https://github.com/Jacman777/Python-for-FANUC_Robots/blob/af1d2c808c88d34105c07645e0fbf96fcf143948/Output/logFile.csv)
 
-# USB stick handling
+# USB memory handling
 After attaching USB stick to Arudino blue USER LED will turn on when drive will be mounted. 
 To close logging file and unmount USB memory press USER button. Blue led should turn off. 
 
