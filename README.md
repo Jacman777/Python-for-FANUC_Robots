@@ -1,7 +1,7 @@
 # Python-for-FANUC_Robots
 This repository contains example usage of Python executor functionality in R-50iA FANUC Robot controllers. 
 
-This example demonstrate how to make a simple robot data logger on USB drive attached to Arduino Opta (micro PLC with IoT capabilities). 
+This example demonstrate how to make a simple robot data logger on USB memory stick attached to Arduino Opta (micro PLC with IoT capabilities). 
 Robot is connected by socket communication to send data to Arduino. 
 
 <img src="https://github.com/Jacman777/Python-for-FANUC_Robots/blob/ef5fff10cd939185dc9e29b05abf3f38b2fad9f9/Images/connections.png" width=90% height=90%>
