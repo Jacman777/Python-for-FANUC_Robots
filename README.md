@@ -14,10 +14,10 @@ Robot is connected by socket communication to send data to Arduino.
 - USB stick to log data
   
 Usage at Robot side:
-![Robot program and settings](https://github.com/Jacman777/Python-for-FANUC_Robots/blob/af1d2c808c88d34105c07645e0fbf96fcf143948/Images/TP_screen.png)
+<img src="https://github.com/Jacman777/Python-for-FANUC_Robots/blob/af1d2c808c88d34105c07645e0fbf96fcf143948/Images/TP_screen.png" width=60% height=60%>
 
 RS-485 terminal output (optional):
-![Terminal output](https://github.com/Jacman777/Python-for-FANUC_Robots/blob/af1d2c808c88d34105c07645e0fbf96fcf143948/Images/RealTerm_RS485.gif)
+<img src="https://github.com/Jacman777/Python-for-FANUC_Robots/blob/af1d2c808c88d34105c07645e0fbf96fcf143948/Images/RealTerm_RS485.gif" width=60% height=60%>
 
 Example CSV log file: [Logfile](https://github.com/Jacman777/Python-for-FANUC_Robots/blob/af1d2c808c88d34105c07645e0fbf96fcf143948/Output/logFile.csv)
 
