@@ -30,7 +30,7 @@ To close logging file and unmount USB memory press USER button. Blue led should 
 <img src="https://github.com/Jacman777/Python-for-FANUC_Robots/blob/847db46e85504123dddb27eb47fb6700d25d6ece/Images/Arduino.png" width=60% height=60%>
 
 # Useful links
-- [Introduction of Python for FANUC Robots](https://www.fanuc.co.jp/ja/product/new_product/2025/202501_r50ia.html)
+- [Introduction of Python for FANUC Robots](https://www.fanuc.co.jp/ja/product/new_product/2025/202501_r50ia.html) [JP]
 - [Arduino library to handle USB storage](https://docs.arduino.cc/libraries/arduino_unifiedstorage/#class%20%60UFile%60)
 - [USB data logging for Opta](https://docs.arduino.cc/tutorials/opta/usb-data-logging/)
 
